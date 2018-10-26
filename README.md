@@ -28,6 +28,8 @@ You should only do this if you have problems running the app, as there may alrea
 
 Do not trust executables from third parties, [an official build is available on github](https://github.com/wilson0x4d/woffles/releases).
 
+NOTE: If you have WOFF configured to run using the official "fullscreen" mode, you will first want to reconfigure it to run in "windowed" mode. WOFFLES will *not* force WOFF into windowed mode for you.
+
 1. Launch WOFF
 2. Launch WOFFLES
 3. Enjoy!
